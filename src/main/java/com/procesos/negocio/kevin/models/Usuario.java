@@ -1,4 +1,4 @@
-package com.procesos.negocio.harold.models;
+package com.procesos.negocio.kevin.models;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
